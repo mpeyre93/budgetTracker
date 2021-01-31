@@ -32,5 +32,4 @@ THEN that will be shown on the page, and added to their transaction history when
 
 - - -
 
-Using MonogoDB Atlas, this application is deployed on Heroku.
-Link to access Heroku below:
+Using MonogoDB Atlas, this application is deployed on Heroku. Link to access Heroku below: https://stark-citadel-59119.herokuapp.com/
